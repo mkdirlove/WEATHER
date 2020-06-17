@@ -1,5 +1,5 @@
 # WEATHER
-# -------
+
 # Simple written in BASH tool that prints weather report of an spesific city.
 
 ## TOOL SCREENSHOT
